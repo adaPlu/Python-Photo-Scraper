@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 
-#BuiltBy:AdaPluguez/chatgpt
+#BuiltBy:AdaPluguez
 #2/24/2024
 import time
 import os
